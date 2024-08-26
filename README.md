@@ -1,3 +1,1 @@
-We believe in an open internet where users own their data and the AI models they contribute to. OpenAI takes your data and uses it to create pay-for-access models.
-
-We serve a GPT that runs locally on your device. Instead of paying to use the model (ala OpenAI), you earn for using the GPT and contributing to the network.
+We are a data DAO built on Vana focused on music data, starting with Spotify. Your music listening history is valuable for consumer insights and trend forecasting. We are a group of organizers, music lovers, and researchers interested in taking back control of our music history, which Spotify currently holds a monopoloy on. Let's transform our music data into currency.
